@@ -35,7 +35,7 @@ It's a simple example to help understand how password hashing works and whyit's 
 1. You can clone this repository:
 
 ```
-git clone https://github.com/dre86dre/password_hash.git
+git clone https://github.com/coder0name0dre/password_hash.git
 ```
 
 2. Navigate to the folder:
@@ -62,4 +62,4 @@ python3 password_hash.py
  
 ## License
 
-This project is licensed under the [MIT License](https://github.com/dre86dre/password_hash/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/coder0name0dre/password_hash/blob/main/LICENSE).
